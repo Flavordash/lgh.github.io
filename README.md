@@ -1,3 +1,3 @@
-# portfolio.github.io
+# lgh.github.io
 portfolio
 
